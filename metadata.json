@@ -1,0 +1,6 @@
+{
+  "name": "Wayfarer — The Professional Travel Network",
+  "description": "A premium social network for travellers, mountaineers, and global explorers. Build your travel identity, find expedition companions, share verified journeys, and organize trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
